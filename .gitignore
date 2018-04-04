@@ -1,0 +1,4 @@
+**/results*.csv
+results*.csv
+**/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
